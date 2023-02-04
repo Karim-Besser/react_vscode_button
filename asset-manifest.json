@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_vscode_button/static/css/main.e03f4eb3.css",
+    "main.js": "/react_vscode_button/static/js/main.d2e228d5.js",
+    "static/js/787.2511283a.chunk.js": "/react_vscode_button/static/js/787.2511283a.chunk.js",
+    "index.html": "/react_vscode_button/index.html",
+    "main.e03f4eb3.css.map": "/react_vscode_button/static/css/main.e03f4eb3.css.map",
+    "main.d2e228d5.js.map": "/react_vscode_button/static/js/main.d2e228d5.js.map",
+    "787.2511283a.chunk.js.map": "/react_vscode_button/static/js/787.2511283a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e03f4eb3.css",
+    "static/js/main.d2e228d5.js"
+  ]
+}
