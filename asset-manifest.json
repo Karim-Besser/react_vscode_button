@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react_vscode_button/static/css/main.d5a3eab4.css",
-    "main.js": "/react_vscode_button/static/js/main.46fe6d63.js",
+    "main.css": "/react_vscode_button/static/css/main.a7cb2ebe.css",
+    "main.js": "/react_vscode_button/static/js/main.0086aa12.js",
     "static/js/787.2511283a.chunk.js": "/react_vscode_button/static/js/787.2511283a.chunk.js",
     "index.html": "/react_vscode_button/index.html",
-    "main.d5a3eab4.css.map": "/react_vscode_button/static/css/main.d5a3eab4.css.map",
-    "main.46fe6d63.js.map": "/react_vscode_button/static/js/main.46fe6d63.js.map",
+    "main.a7cb2ebe.css.map": "/react_vscode_button/static/css/main.a7cb2ebe.css.map",
+    "main.0086aa12.js.map": "/react_vscode_button/static/js/main.0086aa12.js.map",
     "787.2511283a.chunk.js.map": "/react_vscode_button/static/js/787.2511283a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5a3eab4.css",
-    "static/js/main.46fe6d63.js"
+    "static/css/main.a7cb2ebe.css",
+    "static/js/main.0086aa12.js"
   ]
 }
