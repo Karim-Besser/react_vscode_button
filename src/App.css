@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+.VSCODE_P {
+  background-color: grey;
+  color: bisque;
+  border-radius: calc(1rem - 5px);
+}
 
 .bg_why_glassmorphism {
   background: rgba( 84, 191, 137, 0.45 );
