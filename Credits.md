@@ -1,0 +1,1 @@
+# VSCode Opener - Credits: Background by <a href="https://unsplash.com/@sepoys?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Rohit Tandon</a> on <a href="https://unsplash.com/images/nature/mountain?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>

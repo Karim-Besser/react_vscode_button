@@ -3,10 +3,16 @@
 }
 
 
-
+.bg_why_glassmorphism {
+  background: rgba( 84, 191, 137, 0.45 );
+  backdrop-filter: blur( 1.5px );
+  -webkit-backdrop-filter: blur( 1.5px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
 
 .App-header {
-  background-color: #282c34;
+  background-image: url("https://images.unsplash.com/photo-1454496522488-7a8e488e8606?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1776&q=80");
   min-height: 100vh;
   display: flex;
   flex-direction: column;

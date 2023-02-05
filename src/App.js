@@ -23,7 +23,7 @@ function App() {
 }
 
 var code = "<a href='vscode://'><button>HI</button></a>"
-const Why = () => <p className="bg-emerald-600 rounded-xl" style={{ width: 1000, }}>
+const Why = () => <p className="bg_why_glassmorphism" style={{ width: 1000, }}>
   Why? I just want to test how to make a button that open vscode so I did <code className="bg-gray-500 rounded-lg text-yellow-200">{code}</code> and it worked also I just wanted to try to test publishing a website to github pages.
 </p>;
 export default App;
